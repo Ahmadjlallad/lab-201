@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+    background-image:url("753323.jpg") ;
+    color: #eee;
+    text-transform: capitalize;
+}
+.G_1,
+.G_2,
+.G_3,
+.G_4 {
+    border: red 2px solid;
+    border-radius: 40px;
+    width: 20%;
+    margin-left: 40%;
+}
+.G_1 { 
+
+    color: #eb00ff
+}
+.G_2 { 
+
+    color: green;
+}
+.G_3 { 
+    color: yellowgreen;
+}
+.G_4 { 
+
+    color: rgb(14, 163, 163);
+}
+footer {
+    display: inline-block;
+}
